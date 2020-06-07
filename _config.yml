@@ -50,3 +50,5 @@ topics:
   - name: ErnieThornhill
     web_url: https://github.com/ErnieThornhill
   - name: Natural Language Processing
+  - name: Quantum Computing with Q#
+    web_url: https://github.com/haochuanwei/learn_quantum_computing
